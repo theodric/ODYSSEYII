@@ -21,14 +21,21 @@ The 8KB 'kernal' file provided is a chopped version of the raw ROM dump, and can
 
 
 Identifier BlizzardChipDRROMSC64Odyssey
+
 Mediatype software
+
 Creator Dr ROMs
+
 Date 1985-01-01
+
 Scanner Internet Archive HTML5 Uploader 1.6.3
+
 Publicdate 2016-10-31 11:08:04
+
 Addeddate 2016-10-31 11:08:04
+
 Year 1985
+
 Backup_location ia906209_33
+
 Language English
-plus-circle Add Review
-comment
