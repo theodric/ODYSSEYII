@@ -25,7 +25,7 @@ Identifier BlizzardChipDRROMSC64Odyssey
 
 Mediatype software
 
-Creator Dr ROMs
+Creator Dr ROMs(?? unconfirmed)
 
 Date 1985-01-01
 
