@@ -4,7 +4,7 @@
  I originally [posted this on the Internet Archive](https://archive.org/details/BlizzardChipDRROMSC64Odyssey), but I'm mirroring it here on GitHub just in case. The world will not lose this obscure ROM!
 
 -------------------
-## C64 ODYSSEY by Dr ROMs
+## C64 ODYSSEY!
 
 ![ROM running in VICE](OdysseyII.png)
 
