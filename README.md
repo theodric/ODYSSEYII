@@ -1,5 +1,5 @@
 # COMMODORE 64/ODYSSEY II
-"Blizzard Chip" - DR ROMS C64 Odyssey I/II - a fastload KERNAL ROM replacement for the Commodore 64 (NTSC)
+"Blizzard Chip" - C64 Odyssey! I/II - a fastload KERNAL ROM replacement for the Commodore 64 (NTSC)
 
  I originally [posted this on the Internet Archive](https://archive.org/details/BlizzardChipDRROMSC64Odyssey), but I'm mirroring it here on GitHub just in case. The world will not lose this obscure ROM!
 
