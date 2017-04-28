@@ -19,6 +19,7 @@ Blow this ROM image onto a 27128 EPROM and socket it, with an appropriate pinout
 
 The 8KB 'kernal' file provided is a chopped version of the raw ROM dump, and can be used to directly replace the file of the same name in the VICE emulator.
 
+----------------------------
 
 Identifier BlizzardChipDRROMSC64Odyssey
 
