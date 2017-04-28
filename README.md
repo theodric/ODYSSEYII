@@ -1,15 +1,15 @@
-# COMMODORE 64 ODYSSEY II
+# COMMODORE 64/ODYSSEY II
 "Blizzard Chip" - DR ROMS C64 Odyssey I/II - a fastload KERNAL ROM replacement for the Commodore 64 (NTSC)
 
  I originally [posted this on the Internet Archive](https://archive.org/details/BlizzardChipDRROMSC64Odyssey), but I'm mirroring it here on GitHub just in case. The world will not lose this obscure ROM!
 
 -------------------
-by Dr ROMs
+## C64 ODYSSEY by Dr ROMs
+
+![ROM running in VICE](OdysseyII.png)
 
 Published January 1, 1985
 Topics Commodore, 64, C64, KERNAL, KERNEL, ROM, 27128
-
-![ROM running in VICE](OdysseyII.png)
 
 This is a replacement KERNAL ROM for the NTSC Commodore 64. It has some unspecified bugfixes as well as a few added/changed features. It was created by some dude near Peoria, Illinois in the 1980s. I haven't been able to find any further information about it. It will boot on a PAL C64, but acts real wacky and is generally not stable, so just don't bother with anything but an NTSC unit.
 
